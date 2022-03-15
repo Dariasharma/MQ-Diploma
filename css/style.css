@@ -1,13 +1,13 @@
 @font-face {
    font-family: 'OpenSans-Regular';
-   src: url(/fonts/OpenSans-Regular.woff);
+   src: url(/MQ-Diploma/fonts/OpenSans-Regular.woff);
    font-weight: 400;
    font-style: normal;
  }
  
  @font-face {
    font-family: 'OpenSans-Bold';
-   src: url(/fonts/OpenSans-Bold.woff);
+   src: url(/MQ-Diploma/fonts/OpenSans-Bold.woff);
    font-weight: 700;
    font-style: normal;
  }
@@ -19,7 +19,7 @@
  }
  
  .header {
-   background-image: url(/images/banner-bg.jpg);
+   background-image: url(/MQ-Diploma/images/banner-bg.jpg);
    background-repeat: no-repeat;
    background-position: center center;
    background-size: cover;
@@ -158,19 +158,19 @@
 }
 
 .trend1 {
-   background-image: url(/images/trend1.jpg);
+   background-image: url(/MQ-Diploma/images/trend1.jpg);
 }
 
 .trend2 {
-   background-image: url(/images/trend2.jpg);
+   background-image: url(/MQ-Diploma/images/trend2.jpg);
 }
 
 .trend3 {
-   background-image: url(/images/trend3.jpg);
+   background-image: url(/MQ-Diploma/images/trend3.jpg);
 }
 
 .trend4 {
-   background-image: url(/images/trend4.jpg);
+   background-image: url(/MQ-Diploma/images/trend4.jpg);
 }
 
 .trend-info {
